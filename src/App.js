@@ -8,7 +8,7 @@ const menuData = [
     menuItems: [
       {
         itemId: 1,
-        itemPrice: "12",
+        itemPrice: "13",
         itemName: "Lasagna",
         itemDescription: "Meat and cheese layered between house-made pasta with bell peppers and onions.",
       },
